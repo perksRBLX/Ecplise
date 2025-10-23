@@ -32,7 +32,7 @@ Eclipse is an **upcoming admin panel** for Roblox, currently in development. It 
 
 ## Stay Updated
 Your feedback and interest are important! Follow updates or join the discussion:  
-[Discord](https://discord.gg/yourserver) | [GitHub Issues](#)
+[![DiscordS Server](https://i.imgur.com/dImdjny.png)](https://discord.gg/VA6u323rrM)
 
 ---
 
