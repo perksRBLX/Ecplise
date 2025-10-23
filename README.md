@@ -22,4 +22,6 @@ making management smoother and gameplay safer.
 ---
 
 Visit our Discord to **stay updated and join the community**!  
-[Join Our Discord](https://discord.gg/VA6u323rrM) 💬
+<a href="https://discord.gg/VA6u323rrM">
+    <img src="https://i.imgur.com/dImdjny.png" alt="Join Our Discord" width="200" height="200"/>
+  </a>
