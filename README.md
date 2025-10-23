@@ -1,5 +1,5 @@
 <p align="center">
-  [![Eclipse Admin Panel](https://i.imgur.com/09KdqWl.png)]
+  ![Eclipse Admin Panel](https://i.imgur.com/09KdqWl.png)
 </p>
 
 # Eclipse Admin Panel – Coming Soon
@@ -31,8 +31,10 @@ Eclipse is an **upcoming admin panel** for Roblox, currently in development. It 
 ---
 
 ## Stay Updated
-Your feedback and interest are important! Follow updates or join the discussion:  
-[![DiscordS Server](https://i.imgur.com/dImdjny.png)](https://discord.gg/VA6u323rrM)
+Your feedback and interest are important! Follow updates or join the discussion: 
+<p align="left">
+  [![DiscordS Server](https://i.imgur.com/dImdjny.png)](https://discord.gg/VA6u323rrM)
+</p>
 
 ---
 
