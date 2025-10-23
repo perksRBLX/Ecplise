@@ -1,43 +1,46 @@
 <p align="center">
   <img src="https://i.imgur.com/09KdqWl.png" alt="Eclipse Admin Panel Logo" width="200"/>
-  <br> <!-- small space between images -->
+  <br>
   <a href="https://discord.gg/VA6u323rrM">
-    <img src="https://i.imgur.com/dImdjny.png" alt="Discord Server" width="200" height="200"/>
+    <img src="https://i.imgur.com/dImdjny.png" alt="Join Our Discord" width="200" height="200"/>
   </a>
 </p>
 
+# 🌌 Eclipse Admin Panel – Coming Soon 🌌
 
-# Eclipse Admin Panel – Coming Soon
-
-Eclipse is an **upcoming admin panel** for Roblox, currently in development. It will allow server owners and developers to manage players, run commands, and moderate environments. Please note that the full release is not yet available.
-
----
-
-## Features (Planned)
-- Basic **anticheat system**
-- **Filtering and moderation tools**
-- Intuitive UI for easy command access
-- Ongoing development with upcoming improvements
+Eclipse is an **upcoming, next-level admin panel** for Roblox! 🚀  
+It’s currently in **development**, designed to give server owners and developers **powerful control** over players, commands, and moderation. ⚡  
+**Full release isn’t available yet**, but you can get a sneak peek here! 👀
 
 ---
 
-## Status
-- Eclipse is **under active development**.
-- Users may experience **bugs, incomplete features, or missing functionality** in early previews.
-- Core systems like **anticheat and filtering** are still being improved.
+## 🔹 Planned Features
+- 🛡️ Basic **anticheat system**
+- ⚖️ **Filtering and moderation tools**
+- 🎛️ Intuitive UI for **easy command access**
+- 🔄 Continuous development with **exciting upcoming improvements**
 
 ---
 
-## What to Expect
-- Frequent updates leading up to the **official release**
-- Improvements to **stability, security, functionality, UI design, and user experience**
-- **New features, performance optimizations, bug fixes, and visual enhancements**
+## 🔹 Current Status
+- ⚠️ Eclipse is **under active development**  
+- 🐛 Expect **bugs, incomplete features, or missing functionality**  
+- 🛠️ Core systems like **anticheat and filtering** are still being improved
 
 ---
 
-## Stay Updated
-Your feedback and interest are important! Follow updates or join the discussion: 
+## 🔹 What to Expect
+- 🔔 **Frequent updates** leading to the official release  
+- 💪 Improvements to **stability, security, functionality, UI, and UX**  
+- ✨ **New features, bug fixes, performance optimizations, and visual enhancements**
 
 ---
 
-Thank you for your patience—**Eclipse Admin Panel will be released soon**. Stay tuned!
+## 🔹 Stay Updated
+Your **feedback and interest are vital**! Join the discussion and keep up with the latest news:  
+[Join our Discord](https://discord.gg/VA6u323rrM) 💬  
+
+---
+
+Thank you for your patience—**Eclipse Admin Panel is coming soon**.  
+Stay tuned for an **epic Roblox admin experience!** 🌟
