@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/09KdqWl.png" alt="Eclipse Admin Panel Logo" width="200"/>
 </p>
 
-<p align="left">
+<p align="Center">
   <a href="https://discord.gg/VA6u323rrM">
     <img src="https://i.imgur.com/dImdjny.png" alt="Discord Server" width="150"/>
   </a>
