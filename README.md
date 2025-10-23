@@ -6,41 +6,23 @@
   </a>
 </p>
 
-# 🌌 Eclipse Admin Panel – Coming Soon 🌌
+# Eclipse Admin Panel – Coming Soon
 
-Eclipse is an **upcoming, next-level admin panel** for Roblox! 🚀  
-It’s currently in **development**, designed to give server owners and developers **powerful control** over players, commands, and moderation. ⚡  
-**Full release isn’t available yet**, but you can get a sneak peek here! 👀
-
----
-
-## 🔹 Planned Features
-- 🛡️ Basic **anticheat system**
-- ⚖️ **Filtering and moderation tools**
-- 🎛️ Intuitive UI for **easy command access**
-- 🔄 Continuous development with **exciting upcoming improvements**
+An **exceptionally powerful, lightweight, and elegant admin panel** for Roblox —  
+designed to give developers and server owners precise control over players, commands, and moderation.  
 
 ---
 
-## 🔹 Current Status
-- ⚠️ Eclipse is **under active development**  
-- 🐛 Expect **bugs, incomplete features, or missing functionality**  
-- 🛠️ Core systems like **anticheat and filtering** are still being improved
+⚡ **Power. Control. Elegance.**  
+Eclipse is built for developers who demand **functionality without compromise**.  
+It’s intuitive, reliable, and equipped with features that actually matter.
 
 ---
 
-## 🔹 What to Expect
-- 🔔 **Frequent updates** leading to the official release  
-- 💪 Improvements to **stability, security, functionality, UI, and UX**  
-- ✨ **New features, bug fixes, performance optimizations, and visual enhancements**
+It will outperform traditional admin panels — in **speed, usability, and flexibility** —  
+making management smoother and gameplay safer.  
 
 ---
 
-## 🔹 Stay Updated
-Your **feedback and interest are vital**! Join the discussion and keep up with the latest news:  
-[Join our Discord](https://discord.gg/VA6u323rrM) 💬  
-
----
-
-Thank you for your patience—**Eclipse Admin Panel is coming soon**.  
-Stay tuned for an **epic Roblox admin experience!** 🌟
+Visit our Discord to **stay updated and join the community**!  
+[Join Our Discord](https://discord.gg/VA6u323rrM) 💬
