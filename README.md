@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/09KdqWl.png" alt="Eclipse Admin Panel Logo" width="200"/>
   <br>
-  <a href="https://discord.gg/VA6u323rrM">
-    <img src="https://i.imgur.com/dImdjny.png" alt="Join Our Discord" width="200" height="200"/>
-  </a>
 </p>
 
 # Eclipse Admin Panel – Coming Soon
