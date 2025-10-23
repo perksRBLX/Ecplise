@@ -1,48 +1,39 @@
 <p align="center">
-  <img src="https://i.imgur.com/09KdqWl.png" alt="Eclipse Admin Panel Logo" width="150"/>
+  [![Eclipse Admin Panel](https://i.imgur.com/09KdqWl.png)](https://example.com)
 </p>
 
-# Eclipse Admin Panel – Alpha Release
+# Eclipse Admin Panel – Coming Soon
 
-Eclipse is an **Alpha-stage admin panel** for Roblox. It allows server owners and developers to manage players, run commands, and moderate environments. Please note that this is an **early development build**, so some features may be unstable.
+Eclipse is an **upcoming admin panel** for Roblox, currently in development. It will allow server owners and developers to manage players, run commands, and moderate environments. Please note that the full release is not yet available.
 
 ---
 
-## Features
+## Features (Planned)
 - Basic **anticheat system**
 - **Filtering and moderation tools**
-- UI for easy command access
-- Active development and upcoming improvements
+- Intuitive UI for easy command access
+- Ongoing development with upcoming improvements
 
 ---
 
-## Installation
-1. Open Roblox Studio.
-2. Insert the Eclipse Admin Panel into your game.
-3. Make sure the **LocalScripts** and required **modules** are correctly parented.
-4. Test all commands in a **safe/private environment** before running on a live server.
+## Status
+- Eclipse is **under active development**.
+- Users may experience **bugs, incomplete features, or missing functionality** in early previews.
+- Core systems like **anticheat and filtering** are still being improved.
 
 ---
 
-## Known Issues
-- Eclipse is in **Alpha**, so there may be **bugs, glitches, or unexpected behavior**.
-- Some commands or features may not work as intended.
-- **Anticheat and filtering** are basic and not fully secure.
-
-We encourage users to **report issues or provide feedback** to help improve the panel.
+## What to Expect
+- Frequent updates leading up to the **official release**
+- Improvements to **stability, security, functionality, UI design, and user experience**
+- **New features, performance optimizations, bug fixes, and visual enhancements**
 
 ---
 
-## Updates
-- Stability, security, and functionality improvements are ongoing.
-- UI design, user experience, and new features will be released frequently.
-- Expect **bug fixes, performance optimizations, and visual enhancements** in upcoming updates.
+## Stay Updated
+Your feedback and interest are important! Follow updates or join the discussion:  
+[Discord](https://discord.gg/yourserver) | [GitHub Issues](#)
 
 ---
 
-## Feedback
-Your feedback is crucial! Please report bugs, suggestions, or issues via [Discord](#) or [GitHub Issues](#).
-
----
-
-Thank you for using Eclipse Alpha. Your support helps us build a **powerful and user-friendly admin panel**.
+Thank you for your patience—**Eclipse Admin Panel will be released soon**. Stay tuned!
