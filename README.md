@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://i.imgur.com/09KdqWl.png" alt="Eclipse Admin Panel Logo" width="200"/>
-</p>
-
-<p align="center">
+  <br> <!-- reduces extra spacing -->
   <a href="https://discord.gg/VA6u323rrM">
-    <img src="https://i.imgur.com/dImdjny.png" alt="Discord Server" width="250" height="250"/>
+    <img src="https://i.imgur.com/dImdjny.png" alt="Discord Server" width="100" height="100"/>
   </a>
 </p>
 
