@@ -1,5 +1,5 @@
 <p align="center">
-  [![Eclipse Admin Panel](https://i.imgur.com/09KdqWl.png)](https://example.com)
+  [![Eclipse Admin Panel](https://i.imgur.com/09KdqWl.png)]
 </p>
 
 # Eclipse Admin Panel – Coming Soon
